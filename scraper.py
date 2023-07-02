@@ -38,6 +38,8 @@ def main():
         outfile.write(json_object)
 
 def loadTokenAddresses(coin):
+
+    # avoid being denied from server
     sleep(2)
     
     # load the coin page
@@ -78,24 +80,3 @@ if __name__ == "__main__":
     browser.set_window_size(720, 1080)
 
     main()
-
-
-
-"""
-images :
-tbody -> each tr -> div:coin-icon img:source
-
-data :
-dans tbody pour chaque tr -> td: py-0 coin-name (class)
-1ere div
-2e div
-a
-2e span = ticker
-
-click sur chaque tr -> td: py-0 coin-name (class)
-dans div: data-target="coins-information.mobileOptionalInfo"
-pour chaque div: data-title "Click to copy", récupérer le data-address = contract
-
-"""
-
-
