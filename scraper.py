@@ -23,9 +23,6 @@ def main():
     
     for c in result:
         loadTokenAddresses(c)
-    
-    for c in result:
-        result[c].pop('url')
 
     # close browser window
     browser.quit()
