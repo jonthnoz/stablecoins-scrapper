@@ -1,426 +1,375 @@
 {
     "USDT": {
+        "url": "https://www.coingecko.com/en/coins/tether",
         "contracts": {
             "main": "0xdac17f958d2ee523a2206206994597c13d831ec7",
-            "Oasys": "0xdc3af65ecbd339309ec55f109cb214e0325c5ed4",
-            "Polygon zkEVM": "0x1e4a5963abfd975d8c9021ce480b42188849d41d",
-            "Solana": "Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB",
-            "BitTorrent": "0xdb28719f7f938507dbfe4f0eae55668903d34a15",
-            "Kava": "0xb44a9b6905af7c801311e8f4e76932ee959c663c",
-            "KardiaChain": "0x551a5dcac57c66aa010940c2dcff5da9c53aa53b",
-            "Gnosis Chain": "0x4ecaba5870353805a9f068101a40e0f32ed605c6",
-            "BNB Smart Chain": "0x55d398326f99059ff775485246999027b3197955",
-            "Polygon POS": "0xc2132d05d31c914a87c6611c10748aeb04b58e8f",
-            "Huobi ECO Chain Mainnet": "0xa71edc38d189767582c38a3145b5873052c3e47a",
-            "IoTeX": "0x3cdb7c48e70b854ed2fa392e21687501d84b3afc",
-            "Arbitrum One": "0xfd086bc7cd5c481dcc9c85ebe478a1c0b69fcbb9",
-            "Kucoin Community Chain": "0x0039f574ee5cc39bdd162e9a88e3eb1f111baf48",
-            "OKExChain": "0x382bb369d343125bfb2117af9c149795c6c65c50",
-            "Moonriver": "0xb44a9b6905af7c801311e8f4e76932ee959c663c",
-            "Optimism": "0x94b008aa00579c1307b0ef2c499ad98a8ce58e58",
-            "Aurora": "0x4988a896b1227218e4a686fde5eabdcabd91571f",
-            "Boba Network": "0x5de1677344d3cb0d7d465c10b72a8f60699c062d",
-            "Metis Andromeda": "0xbb06dca3ae6887fabf931640f67cab3e3a16f4dc",
-            "Cronos": "0x66e428c3f67a68878562e79a0234c1f83c208770",
-            "Fuse": "0xfadbbf8ce7d5b7041be672561bba99f79c532e10",
-            "Meter": "0x5fa41671c48e3c951afc30816947126ccc8c162e",
-            "TomoChain": "0x381b31409e4d220919b2cff012ed94d70135a59e",
-            "Harmony Shard 0": "0x3c2b8be99c50593081eaa2a724f0b8285f5aba8f",
-            "Fantom": "0x049d68029688eabf473097a2fc38ef61633a3c7a",
-            "Moonbeam": "0xefaeee334f0fd1712f9a8cc375f427d9cdd40d73",
-            "Telos": "0xefaeee334f0fd1712f9a8cc375f427d9cdd40d73",
-            "Syscoin NEVM": "0x922d641a426dcffaef11680e5358f34d97d112e1",
-            "TRON": "TR7NHqjeKQxGTCi8q8ZY4pL8otSzgjLj6t",
-            "Milkomeda (Cardano)": "0x80a16016cc4a2e6a2caca8a4a498b1699ff0f844",
-            "Conflux": "0xfe97e85d13abd9c1c33384e796f10b73905637ce",
-            "Astar": "0x3795c36e7d12a8c252a20c5a7b455f7c57b60283",
             "Avalanche": "0x9702230a8ea53601f5cd2dc00fdbc13d4df4a8c7",
-            "Bitgert Chain": "0xde14b85cf78f2add2e867fee40575437d5f10c06",
-            "Canto": "0xd567b3d7b8fe3c79a1ad8da978812cfc4fa05e75",
-            "EthereumPoW": "0x2ad7868ca212135c6119fd7ad1ce51cfc5702892",
-            "Velas": "0xb44a9b6905af7c801311e8f4e76932ee959c663c",
-            "Near Protocol": "usdt.tether-token.near"
+            "Kava": "0x919c1c267bc06a7039e03fcc2ef738525769109c",
+            "TRON": "TR7NHqjeKQxGTCi8q8ZY4pL8otSzgjLj6t",
+            "Near Protocol": "usdt.tether-token.near",
+            "Solana": "Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB",
+            "TON": "EQCxE6mUtQJKFnGfaROTKOt1lZbDiiX1kCixRv7Nw2Id_sDs"
         }
     },
     "USDC": {
+        "url": "https://www.coingecko.com/en/coins/usdc",
         "contracts": {
             "main": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
-            "Oasys": "0xe1ab220e37ac55a4e2dd5ba148298a9c09fbd716",
-            "zkSync": "0x3355df6d4c9c3035724fd0e3914de96a5a83aaf4",
-            "Polygon zkEVM": "0xa8ce8aee21bc2a48a5ef670afcc9274c7bbbc035",
-            "Gnosis Chain": "0xddafbb505ad214d7b80b1f830fccc89b60fb7a83",
-            "KardiaChain": "0x765277eebeca2e31912c9946eae1021199b39c61",
-            "TRON": "TEkxiTehnzSmSe2XqrBj4w32RUN966rdz8",
-            "Aptos": "0xf22bede237a07e121b56d91a491eb7bcdfd1f5907926a9e58338f964a01b17fa::asset::USDC",
-            "BNB Smart Chain": "0x8ac76a51cc950d9822d68b83fe1ad97b32cd580d",
-            "Polygon POS": "0x2791bca1f2de4661ed88a30c99a7a9449aa84174",
-            "Moonbeam": "0x818ec0a7fe18ff94269904fced6ae3dae6d6dc0b",
-            "Solana": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
-            "TomoChain": "0xcca4e6302510d555b654b3eab9c0fcb223bcfdf0",
-            "Fantom": "0x04068da6c83afcfa0e13ba15a6696662335d5b75",
-            "Harmony Shard 0": "0x985458e523db3d53125813ed68c274899e9dfab4",
-            "Arbitrum One": "0xaf88d065e77c8cc2239327c5edb3a432268e5831",
-            "OKExChain": "0xc946daf81b08146b1c7a8da2a851ddf2b3eaaf85",
-            "Sora": "0x00ef6658f79d8b560f77b7b20a5d7822f5bc22539c7b4056128258e5829da517",
-            "Ronin": "0x0b7007c13325c48911f73a2dad5fa5dcbf808adc",
-            "Boba Network": "0x66a2a913e447d6b4bf33efbec43aaef87890fbbc",
-            "Cronos": "0xc21223249ca28397b4b6541dffaecc539bff0c59",
-            "Aurora": "0xb12bfca5a55806aaf64e99521918a4bf0fc40802",
-            "Optimism": "0x7f5c764cbc14f9669b88837ca1490cca17c31607",
-            "Metis Andromeda": "0xea32a96608495e54156ae48931a7c20f0dcc1a21",
-            "Fuse": "0x620fd5fa44be6af63715ef4e65ddfa0387ad13f5",
-            "Kucoin Community Chain": "0x980a5afef3d17ad98635f6c5aebcbaeded3c3430",
-            "Meter": "0xd86e243fc0007e6226b07c9a50c9d70d78299eb5",
+            "Polkadot": "1337",
             "Avalanche": "0xb97ef9ef8734c71904d8002f8b6bc66dd9c48a6e",
-            "Telos": "0x818ec0a7fe18ff94269904fced6ae3dae6d6dc0b",
-            "Syscoin NEVM": "0x2bf9b864cdc97b08b6d79ad4663e71b8ab65c45c",
-            "Milkomeda (Cardano)": "0xb44a9b6905af7c801311e8f4e76932ee959c663c",
-            "DFK Chain": "0x3ad9dfe640e1a9cc1d9b0948620820d975c3803a",
-            "Elastos Smart Contract Chain": "0xa06be0f5950781ce28d965e5efc6996e88a8c141",
-            "Evmos": "0x51e44ffad5c2b122c8b635671fcc8139dc636e82",
-            "SX Network": "0xe2aa35c2039bd0ff196a6ef99523cc0d3972ae3e",
-            "Energi": "0xffd7510ca0a3279c7a5f50018a26c21d5bc1dbcf",
-            "Conflux": "0x6963efed0ab40f6c3d7bda44a05dcf1437c44372",
-            "Cosmos": "ibc/D189335C6E4A68B513C10AB227BF1C1D38C746766278BA3EEB4FB14124F1D858",
-            "Astar": "0x6a2d262d56735dba19dd70682b39f6be9a931d98",
-            "Kava": "0xfa9343c3897324496a05fc75abed6bac29f8a40f",
-            "Bitgert Chain": "0xcf2df9377a4e3c10e9ea29fdb8879d74c27fcde7",
-            "Arbitrum Nova": "0x750ba8b76187092b0d1e87e28daaf484d1b5273b",
-            "Canto": "0x80b5a32e4f032b2a058b4f29ec95eefeeb87adcd",
-            "Dogechain": "0x765277eebeca2e31912c9946eae1021199b39c61",
-            "Velas": "0x80a16016cc4a2e6a2caca8a4a498b1699ff0f844",
-            "Klaytn": "0x6270b58be569a7c0b8f47594f191631ae5b2c86c",
-            "Step Network": "0xe3f5a90f9cb311505cd691a46596599aa1a0ad7d"
+            "Optimism": "0x0b2c639c533813f4aa9d7837caf62653d097ff85",
+            "Stellar": "USDC-GA5ZSEJYB37JRC5AVCIA5MOP4RHTM335X2KGX3IHOJAPP5RE34K4KZVN",
+            "Near Protocol": "17208628f84f5d6ad33f0da3bbbeb27ffcb398eac501a31bd6ad2011e36133a1",
+            "Hedera Hashgraph": "0.0.456858",
+            "zkSync": "0x1d17cbcf0d6d143135ae902365d2e5e2a16538d4",
+            "TRON": "TEkxiTehnzSmSe2XqrBj4w32RUN966rdz8",
+            "Celo": "0xceba9300f2b948710d2653dd7b07f33a8b32118c",
+            "Arbitrum One": "0xaf88d065e77c8cc2239327c5edb3a432268e5831",
+            "Base": "0x833589fcd6edb6e08f4c7c32d4f71b54bda02913",
+            "Polygon POS": "0x3c499c542cef5e3811e1192ce70d8cc03d5c3359",
+            "Solana": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+            "Flow": "A.b19436aae4d94622.FiatToken"
         }
     },
     "DAI": {
+        "url": "https://www.coingecko.com/en/coins/dai",
         "contracts": {
             "main": "0x6b175474e89094c44da98b954eedeac495271d0f",
-            "Polygon zkEVM": "0xc5015b9d9161dca7e18e32f6f25c4ad850731fd4",
             "Kava": "0x765277eebeca2e31912c9946eae1021199b39c61",
-            "BNB Smart Chain": "0x1af3f329e8be154074d8769d1ffa4ee058b1dbc3",
-            "Polygon POS": "0x8f3cf7ad23cd3cadbd9735aff958023239c6a063",
+            "Fantom": "0x8d11ec38a3eb5e956b052f67da8bdc9bef8abf3e",
+            "Energi": "0x0ee5893f434017d8881750101ea2f7c49c0eb503",
+            "Avalanche": "0xd586e7f844cea2f87f50152665bcbc2c279d8d70",
+            "Polygon zkEVM": "0xc5015b9d9161dca7e18e32f6f25c4ad850731fd4",
             "Optimism": "0xda10009cbd5d07dd0cecc66161fc93d7c9000da1",
+            "zkSync": "0x4b9eb6c0b6ea15176bbf62841c6b2a8a398cb656",
+            "Cronos": "0xf2001b145b43032aaf5ee2884e456ccd805f677d",
+            "Arbitrum One": "0xda10009cbd5d07dd0cecc66161fc93d7c9000da1",
+            "Base": "0x50c5725949a6f0c72e6c4a641f24049a917db0cb",
+            "Polygon POS": "0x8f3cf7ad23cd3cadbd9735aff958023239c6a063",
+            "BNB Smart Chain": "0x1af3f329e8be154074d8769d1ffa4ee058b1dbc3",
             "Metis Andromeda": "0x4651b38e7ec14bb3db731369bfe5b08f2466bd0a",
             "Harmony Shard 0": "0xef977d2f931c1978db5f6747666fa1eacb0d0339",
-            "Avalanche": "0xd586e7f844cea2f87f50152665bcbc2c279d8d70",
-            "Arbitrum One": "0xda10009cbd5d07dd0cecc66161fc93d7c9000da1",
             "Sora": "0x0200060000000000000000000000000000000000000000000000000000000000",
             "Moonriver": "0x80a16016cc4a2e6a2caca8a4a498b1699ff0f844",
             "Aurora": "0xe3520349f477a5f6eb06107066048508498a291b",
-            "Cronos": "0xf2001b145b43032aaf5ee2884e456ccd805f677d",
-            "Fantom": "0x8d11ec38a3eb5e956b052f67da8bdc9bef8abf3e",
             "Moonbeam": "0x765277eebeca2e31912c9946eae1021199b39c61",
             "Syscoin NEVM": "0xefaeee334f0fd1712f9a8cc375f427d9cdd40d73",
             "Milkomeda (Cardano)": "0x639a647fbe20b6c8ac19e48e2de44ea792c62c5c",
-            "Energi": "0x0ee5893f434017d8881750101ea2f7c49c0eb503",
             "Cosmos": "ibc/0CD3A0285E1341859B5E86B6AB7682F023D03E97607CCC1DC95706411D866DF7",
             "Astar": "0x6de33698e9e9b787e09d3bd7771ef63557e148bb",
-            "Arbitrum Nova": "0xda10009cbd5d07dd0cecc66161fc93d7c9000da1",
             "Velas": "0xe3f5a90f9cb311505cd691a46596599aa1a0ad7d",
+            "Arbitrum Nova": "0xda10009cbd5d07dd0cecc66161fc93d7c9000da1",
             "Klaytn": "0x078db7827a5531359f6cb63f62cfa20183c4f10c",
             "Gnosis Chain": "0x44fa8e6f47987339850636f88629646662444217",
             "Hydra": "abc2cd00700e06922bcf30fe0ad648507113cc56",
             "Near Protocol": "6b175474e89094c44da98b954eedeac495271d0f.factory.bridge.near"
         }
     },
-    "BUSD": {
+    "FDUSD": {
+        "url": "https://www.coingecko.com/en/coins/first-digital-usd",
         "contracts": {
-            "main": "0x4fabb145d64652a948d72533023f6e7a623c7c53",
-            "Polygon POS": "0xdab529f40e671a1d4bf91361c21bf9f0c9712ab7",
-            "Optimism": "0x9c9e5fd8bbc25984b178fdce6117defa39d2db39",
-            "IoTeX": "0x84abcb2832be606341a50128aeb1db43aa017449",
-            "Aptos": "0xccc9620d38c4f3991fa68a03ad98ef3735f18d04717cb75d7a1300dd8a7eed75::coin::T",
-            "BNB Smart Chain": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
-            "Harmony Shard 0": "0xe176ebe47d621b984a73036b9da5d834411ef734",
-            "OKExChain": "0x332730a4f6e03d9c55829435f10360e13cfa41ff",
-            "Moonriver": "0x5d9ab5522c64e1f6ef5e3627eccc093f56167818",
-            "Sora": "0x00567d096a736f33bf78cad7b01e33463923b9c933ee13ab7e3fb7b23f5f953a",
-            "Cronos": "0xc74d59a548ecf7fc1754bb7810d716e9ac3e3ae5",
-            "Fuse": "0x6a5f6a8121592becd6747a38d67451b310f7f156",
-            "Meter": "0x24aa189dfaa76c671c279262f94434770f557c35",
-            "Theta": "0x7b37d0787a3424a0810e02b24743a45ebd5530b2",
-            "Moonbeam": "0xa649325aa7c5093d12d6f98eb4378deae68ce23f",
-            "Milkomeda (Cardano)": "0x218c3c3d49d0e7b37aff0d8bb079de36ae61a4c0",
-            "Elastos Smart Contract Chain": "0x9f1d0ed4e041c503bd487e5dc9fc935ab57f9a57",
-            "Astar": "0x4bf769b05e832fcdc9053fffbc78ca889acb5e1e",
-            "Gnosis Chain": "0xdd96b45877d0e8361a4ddb732da741e97f3191ff",
-            "Velas": "0xc9baa8cfdde8e328787e29b4b078abf2dadc2055",
-            "Avalanche": "0x9c9e5fd8bbc25984b178fdce6117defa39d2db39"
+            "main": "0xc5f0f7b66764f6ec8c8dff7ba683102295e16409",
+            "BNB Smart Chain": "0xc5f0f7b66764f6ec8c8dff7ba683102295e16409"
         }
     },
-    "TUSD": {
+    "USDE": {
+        "url": "https://www.coingecko.com/en/coins/ethena-usde",
         "contracts": {
-            "main": "0x0000000000085d4780b73119b644ae5ecd22b376",
-            "BNB Smart Chain": "0x40af3827f39d0eacbf4a168f8d4ee67c121d11c9",
-            "TRON": "TUpMhErZL2fhh4sVNULAbNKLokS4GjC1F4",
-            "BNB Beacon Chain": "TUSDB-888",
-            "Avalanche": "0x1c20e891bab6b1727d14da358fae2984ed9b59eb"
-        }
-    },
-    "FRAX": {
-        "contracts": {
-            "main": "0x853d955acef822db058eb8505911ed77f175b99e",
-            "Optimism": "0x2e3d870790dc77a83dd1d18184acc7439a53f475",
-            "Near Protocol": "853d955acef822db058eb8505911ed77f175b99e.factory.bridge.near",
-            "Polygon zkEVM": "0xff8544fed5379d9ffa8d47a74ce6b91e632ac44d",
-            "Moonbeam": "0x322e86852e492a7ee17f28a78c663da38fb33bfb",
-            "BNB Smart Chain": "0x90c97f71e18723b0cf0dfa30ee176ab653e89f40",
-            "Avalanche": "0xd24c2ad096400b6fbcd2ad8b24e7acbc21a1da64",
-            "Polygon POS": "0x45c32fa6df82ead1e2ef74d17b76547eddfaff89",
-            "Fantom": "0xdc301622e621166bd8e82f2ca0a26c13ad0be355",
-            "Harmony Shard 0": "0xfa7191d292d5633f702b0bd7e3e3bccc0e633200",
-            "Arbitrum One": "0x17fc002b466eec40dae837fc4be5c67993ddbd6f",
-            "Moonriver": "0x1a93b23281cc1cde4c4741353f3064709a16197d",
-            "Solana": "FR87nWEUxVgerFGhZM8Y4AggKGLnaXswr1Pd8wZ4kZcp",
-            "Evmos": "0xe03494d0033687543a80c9b1ca7d6237f2ea8bd8"
-        }
-    },
-    "USDP": {
-        "contracts": {
-            "main": "0x1456688345527be1f37e9e627da0837d6f08c925"
+            "main": "0x4c9edd5852cd905f086c759e8383e09bff1e68b3"
         }
     },
     "USDD": {
+        "url": "https://www.coingecko.com/en/coins/usdd",
         "contracts": {
             "main": "TPYmHEhy5n8TCEfYGqW2rPxsghSfzghPDn",
-            "Arbitrum One": "0x680447595e8b7b3aa1b43beb9f6098c79ac2ab3f",
             "Near Protocol": "0c10bf8fcb7bf5412187a595ab97a3609160b5c6.factory.bridge.near",
+            "Avalanche": "0xb514cabd09ef5b169ed3fe0fa8dbd590741e81c2",
             "BitTorrent": "0x17f235fd5974318e4e2a5e37919a209f7c37a6d1",
-            "BNB Smart Chain": "0xd17479997f34dd9156deef8f95a52d81d265be9c",
             "Ethereum": "0x0c10bf8fcb7bf5412187a595ab97a3609160b5c6",
-            "Avalanche": "0xb514cabd09ef5b169ed3fe0fa8dbd590741e81c2"
+            "Arbitrum One": "0x680447595e8b7b3aa1b43beb9f6098c79ac2ab3f",
+            "BNB Smart Chain": "0xd17479997f34dd9156deef8f95a52d81d265be9c"
         }
     },
-    "GUSD": {
+    "FRAX": {
+        "url": "https://www.coingecko.com/en/coins/fraxtal-bridged-frax-fraxtal",
         "contracts": {
-            "main": "0x056fd409e1d7a124bd7017459dfea2f387b6d5cd",
-            "Near Protocol": "056fd409e1d7a124bd7017459dfea2f387b6d5cd.factory.bridge.near"
+            "main": "0xfc00000000000000000000000000000000000001"
+        }
+    },
+    "XAUT": {
+        "url": "https://www.coingecko.com/en/coins/tether-gold",
+        "contracts": {
+            "main": "0x68749665ff8d2d112fa859aa293f07a622782f38"
+        }
+    },
+    "TUSD": {
+        "url": "https://www.coingecko.com/en/coins/true-usd",
+        "contracts": {
+            "main": "0x0000000000085d4780b73119b644ae5ecd22b376",
+            "Avalanche": "0x1c20e891bab6b1727d14da358fae2984ed9b59eb",
+            "BNB Smart Chain": "0x40af3827f39d0eacbf4a168f8d4ee67c121d11c9",
+            "TRON": "TUpMhErZL2fhh4sVNULAbNKLokS4GjC1F4",
+            "BNB Beacon Chain": "TUSDB-888"
         }
     },
     "PAXG": {
+        "url": "https://www.coingecko.com/en/coins/pax-gold",
         "contracts": {
             "main": "0x45804880de22913dafe09f4980848ece6ecbaf78",
             "Harmony Shard 0": "0x7afb0e2eba6dc938945fe0f42484d3b8f442d0ac",
             "Energi": "0xbf8afa4663b30c621a5f7497a972fc63c1a06c66"
         }
     },
-    "XAUT": {
-        "contracts": {
-            "main": "0x68749665ff8d2d112fa859aa293f07a622782f38"
-        }
+    "PYUSD": {
+        "url": "https://www.coingecko.com/en/coins/paypal-usd",
+        "contracts": {}
     },
-    "LUSD": {
+    "USTC": {
+        "url": "https://www.coingecko.com/en/coins/wrapped-ustc",
         "contracts": {
-            "main": "0x5f98805a4e8be255a32880fdec7f6728c6568ba0",
-            "Polygon POS": "0x23001f892c0c82b79303edc9b9033cd190bb21c7",
-            "Arbitrum One": "0x93b346b6bc2548da6a1e7d98e9a421b42541425b",
-            "Optimism": "0xc40f949f8a4e094d1b49a23ea9241d289b7b2819"
-        }
-    },
-    "EURT": {
-        "contracts": {
-            "main": "0xc581b735a1688071a1746c968e0798d642ede491"
+            "main": "0x23396cf899ca06c4472205fc903bdb4de249d6fc"
         }
     },
     "ALUSD": {
+        "url": "https://www.coingecko.com/en/coins/alchemix-usd",
         "contracts": {
             "main": "0xbc6da0fe9ad5f3b0d58160288917aa56653660e9",
-            "Fantom": "0xb67fa6defce4042070eb1ae1511dcd6dcc6a532e",
-            "Optimism": "0xcb8fa9a76b8e203d8c3797bf438d8fb81ea3326a"
+            "Optimism": "0xcb8fa9a76b8e203d8c3797bf438d8fb81ea3326a",
+            "Fantom": "0xb67fa6defce4042070eb1ae1511dcd6dcc6a532e"
         }
     },
-    "EUSD": {
+    "USDP": {
+        "url": "https://www.coingecko.com/en/coins/pax-dollar",
         "contracts": {
-            "main": "0x97de57ec338ab5d51557da3434828c5dbfada371"
+            "main": "0x8e870d67f660d95d5be530380d0ec0bd388289e1"
         }
     },
     "EURS": {
+        "url": "https://www.coingecko.com/en/coins/stasis-eurs",
         "contracts": {
-            "main": "0xdb25f211ab05b1c97d595516f45794528a807ad8"
+            "main": "0xdb25f211ab05b1c97d595516f45794528a807ad8",
+            "Polygon POS": "0xe111178a87a3bff0c8d18decba5798827539ae99"
         }
     },
-    "USTC": {
+    "CRVUSD": {
+        "url": "https://www.coingecko.com/en/coins/crvusd",
         "contracts": {
-            "main": "0x23396cf899ca06c4472205fc903bdb4de249d6fc",
-            "Polygon POS": "0x692597b009d13c4049a947cab2239b7d6517875f",
-            "Harmony Shard 0": "0x224e64ec1bdce3870a6a6c777edd450454068fec",
-            "Solana": "CXLBjMMcwkc17GfJtBos6rQCo1ypeH6eDbB82Kby4MRm",
-            "Fantom": "0xe2d27f06f63d98b8e11b38b5b08a75d0c8dd62b9",
-            "Sora": "0x00f8cfb462a824f37dcea67caae0d7e2f73ed8371e706ea8b1e1a7b0c357d5d4",
-            "Ethereum": "0xa47c8bf37f92abed4a126bda807a7b7498661acd",
-            "Aurora": "0x5ce9f0b6afb36135b5ddbf11705ceb65e634a9dc"
+            "main": "0xf939e0a03fb07f59a73314e73794be0e57ac1b4e",
+            "Arbitrum One": "0x498bf2b1e120fed3ad3d42ea2165e9b73f99c1e5",
+            "Optimism": "0xc52d7f23a2e460248db6ee192cb23dd12bddcbf6",
+            "Base": "0x417ac0e078398c154edfadd9ef675d30be60af93",
+            "Gnosis Chain": "0xabef652195f98a91e490f047a5006b71c85f058d",
+            "Polygon POS": "0xc4ce1d6f5d98d65ee25cf85e9f2e9dcfee6cb5d6",
+            "BNB Smart Chain": "0xe2fb3f127f5450dee44afe054385d74c392bdef4"
         }
     },
-    "FLEXUSD": {
+    "LUSD": {
+        "url": "https://www.coingecko.com/en/coins/liquity-usd",
         "contracts": {
-            "main": "0xa774ffb4af6b0a91331c084e1aebae6ad535e6f3",
-            "SmartBCH": "0x7b2b3c5308ab5b2a1d9a94d20d35ccdf61e05b72"
+            "main": "0x5f98805a4e8be255a32880fdec7f6728c6568ba0"
+        }
+    },
+    "GUSD": {
+        "url": "https://www.coingecko.com/en/coins/gemini-dollar",
+        "contracts": {
+            "main": "0x056fd409e1d7a124bd7017459dfea2f387b6d5cd",
+            "Near Protocol": "056fd409e1d7a124bd7017459dfea2f387b6d5cd.factory.bridge.near"
+        }
+    },
+    "USDX": {
+        "url": "https://www.coingecko.com/en/coins/usdx",
+        "contracts": {}
+    },
+    "DOLA": {
+        "url": "https://www.coingecko.com/en/coins/dola",
+        "contracts": {
+            "main": "0x865377367054516e17014ccded1e7d814edc9ce4",
+            "Optimism": "0x8ae125e8653821e851f12a49f7765db9a9ce7384",
+            "Arbitrum One": "0x6a7661795c374c0bfc635934efaddff3a7ee23b6",
+            "Base": "0x4621b7a9c75199271f773ebd9a499dbd165c3191",
+            "BNB Smart Chain": "0x2f29bc0ffaf9bff337b31cbe6cb5fb3bf12e5840",
+            "Fantom": "0x3129662808bec728a27ab6a6b9afd3cbaca8a43c"
+        }
+    },
+    "BUSD": {
+        "url": "https://www.coingecko.com/en/coins/binance-peg-busd",
+        "contracts": {
+            "main": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
+            "Avalanche": "0x9c9e5fd8bbc25984b178fdce6117defa39d2db39",
+            "Optimism": "0x9c9e5fd8bbc25984b178fdce6117defa39d2db39",
+            "Polygon POS": "0x9c9e5fd8bbc25984b178fdce6117defa39d2db39"
         }
     },
     "MIM": {
+        "url": "https://www.coingecko.com/en/coins/magic-internet-money",
         "contracts": {
             "main": "0x99d8a9c45b2eca8864373a26d1459e3dff1e17f3",
-            "Optimism": "0xb153fb3d196a8eb25522705560ac152eeec57901",
-            "BNB Smart Chain": "0xfe19f0b51438fd612f6fd59c1dbb3ea319f433ba",
-            "Avalanche": "0x130966628846bfd36ff31a822705796e8cb8c18d",
-            "Moonriver": "0x0cae51e1032e8461f4806e26332c030e34de3adb",
-            "Arbitrum One": "0xfea7a6a0b346362bf88a9e4a88416b77a57d6c2a",
+            "Blast": "0x76da31d7c9cbeae102aff34d3398bc450c8374c1",
             "Fantom": "0x82f0b8b456c1a451378467398982d4834b6829c1",
-            "Polygon POS": "0x49a0400587a7f65072c87c4910449fdcc5c47242"
+            "Kava": "0x471EE749bAl270eb4c1165B5AD95E614947f6fCeb",
+            "Avalanche": "0x130966628846bfd36ff31a822705796e8cb8c18d",
+            "Optimism": "0xb153fb3d196a8eb25522705560ac152eeec57901",
+            "Linea": "0xdd3b8084af79b9bae3d1b668c0de08ccc2c9429a",
+            "Polygon POS": "0x49a0400587a7f65072c87c4910449fdcc5c47242",
+            "Base": "0x4a3a6dd60a34bb2aba60d73b4c88315e9ceb6a3d",
+            "Moonriver": "0x0cae51e1032e8461f4806e26332c030e34de3adb",
+            "BNB Smart Chain": "0xfe19f0b51438fd612f6fd59c1dbb3ea319f433ba"
+        }
+    },
+    "GHO": {
+        "url": "https://www.coingecko.com/en/coins/gho",
+        "contracts": {
+            "main": "0x40d16fc0246ad3160ccc09b8d0d3a2cd28ae6c2f"
+        }
+    },
+    "LISUSD": {
+        "url": "https://www.coingecko.com/en/coins/lista-usd",
+        "contracts": {
+            "main": "0x0782b6d8c4551b9760e74c0545a9bcd90bdc41e5"
+        }
+    },
+    "SUSD": {
+        "url": "https://www.coingecko.com/en/coins/susd",
+        "contracts": {
+            "main": "0x57ab1ec28d129707052df4df418d58a2d46d5f51",
+            "Fantom": "0x0e1694483ebb3b74d3054e383840c6cf011e518e",
+            "Optimism": "0x8c6f28f2f1a3c87f0f938b96d27520d9751ec8d9",
+            "Arbitrum One": "0xa970af1a584579b618be4d69ad6f73459d112f95"
+        }
+    },
+    "BEAN": {
+        "url": "https://www.coingecko.com/en/coins/bean",
+        "contracts": {
+            "main": "0xbea0000029ad1c77d3d5d23ba2d8893db9d1efab"
         }
     },
     "XSGD": {
+        "url": "https://www.coingecko.com/en/coins/xsgd",
         "contracts": {
             "main": "0x70e8de73ce538da2beed35d14187f6959a8eca96",
             "Zilliqa": "zil180v66mlw007ltdv8tq5t240y7upwgf7djklmwh",
             "Polygon POS": "0xdc3326e71d45186f113a2f448984ca0e8d201995"
         }
     },
-    "BOB": {
+    "EURT": {
+        "url": "https://www.coingecko.com/en/coins/euro-tether",
         "contracts": {
-            "main": "0xb0b195aefa3650a6908f15cdac7d92f8a5791b0b",
-            "BNB Smart Chain": "0xb0b195aefa3650a6908f15cdac7d92f8a5791b0b",
-            "Arbitrum One": "0xb0b195aefa3650a6908f15cdac7d92f8a5791b0b",
-            "Optimism": "0xb0b195aefa3650a6908f15cdac7d92f8a5791b0b",
-            "Ethereum": "0xb0b195aefa3650a6908f15cdac7d92f8a5791b0b"
-        }
-    },
-    "DOLA": {
-        "contracts": {
-            "main": "0x865377367054516e17014ccded1e7d814edc9ce4",
-            "Optimism": "0x8ae125e8653821e851f12a49f7765db9a9ce7384",
-            "Arbitrum One": "0x6a7661795c374c0bfc635934efaddff3a7ee23b6",
-            "BNB Smart Chain": "0x2f29bc0ffaf9bff337b31cbe6cb5fb3bf12e5840",
-            "Fantom": "0x3129662808bec728a27ab6a6b9afd3cbaca8a43c"
-        }
-    },
-    "SUSD": {
-        "contracts": {
-            "main": "0x57ab1ec28d129707052df4df418d58a2d46d5f51",
-            "Fantom": "0x0e1694483ebb3b74d3054e383840c6cf011e518e",
-            "Arbitrum One": "0xa970af1a584579b618be4d69ad6f73459d112f95",
-            "Optimism": "0x8c6f28f2f1a3c87f0f938b96d27520d9751ec8d9"
-        }
-    },
-    "MIMATIC": {
-        "contracts": {
-            "main": "0xa3fa99a148fa48d14ed51d610c367c61876997f1",
-            "Polygon zkEVM": "0x27a4bf80c2d63e42437258533dac7eaff9881bdb",
-            "BNB Smart Chain": "0x3f56e0c36d275367b8c502090edf38289b3dea0d",
-            "Avalanche": "0x3b55e45fd6bd7d4724f5c47e0d1bcaedd059263e",
-            "Fantom": "0xfb98b335551a418cd0737375a2ea0ded62ea213b",
-            "Solana": "9mWRABuz2x6koTPCWiCPM49WUbcrNqGTHBV9T9k7y1o7",
-            "Moonriver": "0x7f5a79576620c046a293f54ffcdbd8f2468174f1",
-            "Harmony Shard 0": "0x3f56e0c36d275367b8c502090edf38289b3dea0d",
-            "Cronos": "0x2ae35c8e3d4bd57e8898ff7cd2bbff87166ef8cb",
-            "Arbitrum One": "0x3f56e0c36d275367b8c502090edf38289b3dea0d",
-            "Boba Network": "0x3f56e0c36d275367b8c502090edf38289b3dea0d",
-            "Gnosis Chain": "0x3f56e0c36d275367b8c502090edf38289b3dea0d",
-            "Metis Andromeda": "0xdfa46478f9e5ea86d57387849598dbfb2e964b02",
-            "Aurora": "0xdfa46478f9e5ea86d57387849598dbfb2e964b02",
-            "Celo": "0xb9c8f0d3254007ee4b98970b94544e473cd610ec",
-            "IoTeX": "0x3f56e0c36d275367b8c502090edf38289b3dea0d",
-            "Optimism": "0xdfa46478f9e5ea86d57387849598dbfb2e964b02",
-            "Moonbeam": "0xdfa46478f9e5ea86d57387849598dbfb2e964b02",
-            "Milkomeda (Cardano)": "0xb9c8f0d3254007ee4b98970b94544e473cd610ec",
-            "Syscoin NEVM": "0x2611fa1cae2a3e20ed47fb1b293437c14f41b00f",
-            "Klaytn": "0x3f56e0c36d275367b8c502090edf38289b3dea0d",
-            "Kava": "0xb84df10966a5d7e1ab46d9276f55d57bd336afc7",
-            "Ethereum": "0x8d6cebd76f18e1558d4db88138e2defb3909fad6"
+            "main": "0xc581b735a1688071a1746c968e0798d642ede491"
         }
     },
     "CUSD": {
+        "url": "https://www.coingecko.com/en/coins/coin98-dollar",
         "contracts": {
             "main": "0xfa4ba88cf97e282c505bea095297786c16070129",
-            "Solana": "CUSDvqAQLbt7fRofcmV2EXfPA2t36kzj7FjzdmqDiNQL",
-            "Ethereum": "0xc285b7e09a4584d027e5bc36571785b515898246"
-        }
-    },
-    "HAY": {
-        "contracts": {
-            "main": "0x0782b6d8c4551b9760e74c0545a9bcd90bdc41e5"
-        }
-    },
-    "USX": {
-        "contracts": {
-            "main": "0xb5102cee1528ce2c760893034a4603663495fd72",
-            "Optimism": "0xbfd291da8a403daaf7e5e9dc1ec0aceacd4848b9",
-            "Ethereum": "0x0a5e677a6a24b2f1a2bf4f3bffc443231d2fdec8",
-            "Polygon POS": "0xcf66eb3d546f0415b368d98a95eaf56ded7aa752",
-            "Kava": "0xdb0e1e86b01c4ad25241b1843e407efc4d615248",
-            "Arbitrum One": "0x641441c631e2f909700d2f41fd87f0aa6a6b4edb"
-        }
-    },
-    "FEI": {
-        "contracts": {
-            "main": "0x956f47f50a910163d8bf957cf5846d573e7f87ca"
-        }
-    },
-    "R": {
-        "contracts": {
-            "main": "0x183015a9ba6ff60230fdeadc3f43b3d788b13e21"
-        }
-    },
-    "BEAN": {
-        "contracts": {
-            "main": "0xbea0000029ad1c77d3d5d23ba2d8893db9d1efab"
-        }
-    },
-    "OUSD": {
-        "contracts": {
-            "main": "0x6bf2be9468314281cd28a94c35f967cafd388325"
-        }
-    },
-    "AGEUR": {
-        "contracts": {
-            "main": "0x1a7e4e63778b4f12a199c062f3efdd288afcbce8",
-            "Polygon POS": "0xe0b52e49357fd4daf2c15e02058dce6bc0057db4",
-            "Arbitrum One": "0xfa5ed56a203466cbbc2430a43c66b9d8723528e7",
-            "Gnosis Chain": "0x4b1e2c2762667331bc91648052f646d1b0d35984"
+            "Ethereum": "0xc285b7e09a4584d027e5bc36571785b515898246",
+            "Solana": "CUSDvqAQLbt7fRofcmV2EXfPA2t36kzj7FjzdmqDiNQL"
         }
     },
     "TOR": {
+        "url": "https://www.coingecko.com/en/coins/tor",
         "contracts": {
             "main": "0x74e23df9110aa9ea0b6ff2faee01e740ca1c642e",
             "BNB Smart Chain": "0x1d6cbdc6b29c6afbae65444a1f65ba9252b8ca83"
         }
     },
-    "ZUSD": {
+    "FLEXUSD": {
+        "url": "https://www.coingecko.com/en/coins/flex-usd",
         "contracts": {
-            "main": "0xf0186490b18cb74619816cfc7feb51cdbe4ae7b9"
+            "main": "0xa774ffb4af6b0a91331c084e1aebae6ad535e6f3",
+            "SmartBCH": "0x7b2b3c5308ab5b2a1d9a94d20d35ccdf61e05b72"
         }
     },
-    "CEUR": {
+    "MIMATIC": {
+        "url": "https://www.coingecko.com/en/coins/mai",
         "contracts": {
-            "main": "0xd8763cba276a3738e6de85b4b3bf5fded6d6ca73"
+            "main": "0xa3fa99a148fa48d14ed51d610c367c61876997f1",
+            "Moonriver": "0x7f5a79576620c046a293f54ffcdbd8f2468174f1",
+            "Gnosis Chain": "0x3f56e0c36d275367b8c502090edf38289b3dea0d",
+            "IoTeX": "0x3f56e0c36d275367b8c502090edf38289b3dea0d",
+            "Metis Andromeda": "0xdfa46478f9e5ea86d57387849598dbfb2e964b02",
+            "Aurora": "0xdfa46478f9e5ea86d57387849598dbfb2e964b02",
+            "Harmony Shard 0": "0x3f56e0c36d275367b8c502090edf38289b3dea0d",
+            "Boba Network": "0x3f56e0c36d275367b8c502090edf38289b3dea0d",
+            "Moonbeam": "0xdfa46478f9e5ea86d57387849598dbfb2e964b02",
+            "Milkomeda (Cardano)": "0xb9c8f0d3254007ee4b98970b94544e473cd610ec",
+            "Syscoin NEVM": "0x2611fa1cae2a3e20ed47fb1b293437c14f41b00f",
+            "Klaytn": "0x3f56e0c36d275367b8c502090edf38289b3dea0d",
+            "Celo": "0xb9c8f0d3254007ee4b98970b94544e473cd610ec"
         }
     },
-    "GYEN": {
+    "EURA": {
+        "url": "https://www.coingecko.com/en/coins/eura",
         "contracts": {
-            "main": "0xc08512927d12348f6620a698105e1baac6ecd911",
-            "Arbitrum One": "0x589d35656641d6ab57a545f08cf473ecd9b6d5f7",
-            "Stellar": "GYEN:GDF6VOEGRWLOZ64PQQGKD2IYWA22RLT37GJKS2EJXZHT2VLAGWLC5TOB"
+            "main": "0x1a7e4e63778b4f12a199c062f3efdd288afcbce8",
+            "Gnosis Chain": "0x4b1e2c2762667331bc91648052f646d1b0d35984",
+            "Arbitrum One": "0xfa5ed56a203466cbbc2430a43c66b9d8723528e7",
+            "Celo": "0xc16b81af351ba9e64c1a069e3ab18c244a1e3049",
+            "BNB Smart Chain": "0x12f31b73d812c6bb0d735a218c086d44d5fe5f89",
+            "Polygon POS": "0xe0b52e49357fd4daf2c15e02058dce6bc0057db4"
+        }
+    },
+    "USDV": {
+        "url": "https://www.coingecko.com/en/coins/verified-usd",
+        "contracts": {
+            "main": "0x0e573ce2736dd9637a0b21058352e1667925c7a8",
+            "TomoChain": "0x323665443cef804a3b5206103304bd4872ea4253",
+            "Avalanche": "0x323665443cef804a3b5206103304bd4872ea4253",
+            "Optimism": "0x323665443cef804a3b5206103304bd4872ea4253",
+            "Arbitrum One": "0x323665443cef804a3b5206103304bd4872ea4253",
+            "Polygon POS": "0x323665443cef804a3b5206103304bd4872ea4253",
+            "BNB Smart Chain": "0x323665443cef804a3b5206103304bd4872ea4253"
         }
     },
     "TRYB": {
+        "url": "https://www.coingecko.com/en/coins/bilira",
         "contracts": {
             "main": "0x2c537e5624e4af88a7ae4060c022609376c8d0eb",
-            "BNB Smart Chain": "0xc1fdbed7dac39cae2ccc0748f7a80dc446f6a594",
-            "Solana": "A94X2fRy3wydNShU4dRaDyap2UuoeWJGWyATtyp61WZf",
             "Avalanche": "0x564a341df6c126f90cf3ecb92120fd7190acb401",
-            "Polygon POS": "0x4fb71290ac171e1d144f7221d882becac7196eb5"
+            "BNB Smart Chain": "0xc1fdbed7dac39cae2ccc0748f7a80dc446f6a594",
+            "Polygon POS": "0x4fb71290ac171e1d144f7221d882becac7196eb5",
+            "Solana": "A94X2fRy3wydNShU4dRaDyap2UuoeWJGWyATtyp61WZf"
+        }
+    },
+    "MKUSD": {
+        "url": "https://www.coingecko.com/en/coins/prisma-mkusd",
+        "contracts": {
+            "main": "0x4591dbff62656e7859afe5e45f6f47d3669fbb28"
+        }
+    },
+    "FEI": {
+        "url": "https://www.coingecko.com/en/coins/fei-usd",
+        "contracts": {
+            "main": "0x956f47f50a910163d8bf957cf5846d573e7f87ca"
+        }
+    },
+    "USX": {
+        "url": "https://www.coingecko.com/en/coins/dforce-usd",
+        "contracts": {
+            "main": "0xb5102cee1528ce2c760893034a4603663495fd72",
+            "Kava": "0xdb0e1e86b01c4ad25241b1843e407efc4d615248",
+            "Optimism": "0xbfd291da8a403daaf7e5e9dc1ec0aceacd4848b9",
+            "Ethereum": "0x0a5e677a6a24b2f1a2bf4f3bffc443231d2fdec8",
+            "Polygon POS": "0xcf66eb3d546f0415b368d98a95eaf56ded7aa752",
+            "Arbitrum One": "0x641441c631e2f909700d2f41fd87f0aa6a6b4edb"
+        }
+    },
+    "GYEN": {
+        "url": "https://www.coingecko.com/en/coins/gyen",
+        "contracts": {
+            "main": "0xc08512927d12348f6620a698105e1baac6ecd911",
+            "Stellar": "GYEN:GDF6VOEGRWLOZ64PQQGKD2IYWA22RLT37GJKS2EJXZHT2VLAGWLC5TOB",
+            "Solana": "Crn4x1Y2HUKko7ox2EZMT6N2t2ZyH7eKtwkBGVnhEq1g",
+            "Arbitrum One": "0x589d35656641d6ab57a545f08cf473ecd9b6d5f7"
         }
     },
     "YUSD": {
+        "url": "https://www.coingecko.com/en/coins/yusd-stablecoin",
         "contracts": {
             "main": "0x111111111111ed1d73f860f57b2798b683f2d325"
         }
     },
-    "USDX": {
-        "contracts": {}
-    },
     "HUSD": {
+        "url": "https://www.coingecko.com/en/coins/husd",
         "contracts": {
             "main": "0xdf574c24545e5ffecb9a659c229253d4111d87e1",
             "Huobi ECO Chain Mainnet": "0x0298c2b32eae4da002a15f36fdf7615bea3da047",
@@ -429,186 +378,283 @@
             "Cube": "0x9db853f46dd7d541d0fba1c8b6b7e7b1d8ff58d3"
         }
     },
-    "WEMIX$": {
+    "EUSD": {
+        "url": "https://www.coingecko.com/en/coins/eusd-old",
         "contracts": {
-            "main": "0x8e81fcc2d4a3baa0ee9044e0d7e36f59c9bba9c1"
+            "main": "0x97de57ec338ab5d51557da3434828c5dbfada371"
         }
     },
-    "EOSDT": {
-        "contracts": {}
-    },
-    "VST": {
+    "OUSD": {
+        "url": "https://www.coingecko.com/en/coins/synth-ousd",
         "contracts": {
-            "main": "0x64343594ab9b56e99087bfa6f2335db24c2d1f17"
+            "main": "0x6bf2be9468314281cd28a94c35f967cafd388325"
         }
     },
-    "SEUR": {
+    "CEUR": {
+        "url": "https://www.coingecko.com/en/coins/celo-euro",
         "contracts": {
-            "main": "0xd71ecff9342a5ced620049e616c5035f1db98620"
+            "main": "0xd8763cba276a3738e6de85b4b3bf5fded6d6ca73"
         }
     },
-    "XIDR": {
+    "USK": {
+        "url": "https://www.coingecko.com/en/coins/usk",
         "contracts": {
-            "main": "0xebf2096e01455108badcbaf86ce30b6e5a72aa52",
-            "Polygon POS": "0x2c826035c1c36986117a0e949bd6ad4bab54afe2",
-            "Zilliqa": "zil1n02sfv2ytldc7jnyx3f7c9zehwdzlxy2ykrhf9"
-        }
-    },
-    "DJED": {
-        "contracts": {
-            "main": "8db269c3ec630e06ae29f74bc39edd1f87c819f1056206e879a1cd61446a65644d6963726f555344"
+            "main": "0x13974cf36984216c90d1f4fc815c156092fea396",
+            "Ethereum": "0x1b3c515f58857e141a966b33182f2f3feecc10e9",
+            "Secret": "secret1cj2fvj4ap79fl9euz8kqn0k5xlvck0pw9z9xhr"
         }
     },
     "VAI": {
+        "url": "https://www.coingecko.com/en/coins/vai",
         "contracts": {
             "main": "0x4bd17003473389a42daf6a0a729f6fdb328bbbd7"
         }
     },
+    "SILK": {
+        "url": "https://www.coingecko.com/en/coins/silk",
+        "contracts": {
+            "main": "secret1fl449muk5yq8dlad7a22nje4p5d2pnsgymhjfd",
+            "Osmosis": "ibc/8A025A1E70101E39DE0C0F153E582A30806D3DA16795F6D868A3AA247D2DEDF7"
+        }
+    },
+    "DJED": {
+        "url": "https://www.coingecko.com/en/coins/djed",
+        "contracts": {
+            "main": "8db269c3ec630e06ae29f74bc39edd1f87c819f1056206e879a1cd61446a65644d6963726f555344"
+        }
+    },
+    "EOSDT": {
+        "url": "https://www.coingecko.com/en/coins/equilibrium-eosdt",
+        "contracts": {
+            "main": "eosdtsttoken"
+        }
+    },
     "MUSD": {
+        "url": "https://www.coingecko.com/en/coins/mstable-usd",
         "contracts": {
             "main": "0xe2f2a5c287993345a840db3b0845fbc70f5935a5"
         }
     },
     "CNHT": {
+        "url": "https://www.coingecko.com/en/coins/cnh-tether",
         "contracts": {
             "main": "0x6e109e9dd7fa1a58bc3eff667e8e41fc3cc07aef"
         }
     },
+    "VEUR": {
+        "url": "https://www.coingecko.com/en/coins/vnx-euro",
+        "contracts": {
+            "main": "0x6ba75d640bebfe5da1197bb5a2aff3327789b5d3",
+            "Avalanche": "0x7678e162f38ec9ef2bfd1d0aaf9fd93355e5fa0b",
+            "Tezos": "KT1FenS7BCUjn1otfFyfrfxguiGnL4UTF3aG",
+            "Stellar": "GDXLSLCOPPHTWOQXLLKSVN4VN3G67WD2ENU7UMVAROEYVJLSPSEWXIZN",
+            "Polygon POS": "0xe4095d9372e68d108225c306a4491cacfb33b097",
+            "Solana": "C4Kkr9NZU3VbyedcgutU6LKmi6MKz81sx6gRmk5pX519"
+        }
+    },
     "PAR": {
+        "url": "https://www.coingecko.com/en/coins/parallel",
         "contracts": {
             "main": "0x68037790a0229e9ce6eaa8a99ea92964106c4703",
-            "Polygon POS": "0xe2aa7db6da1dae97c5f5c6914d285fbfcc32a128",
-            "Fantom": "0x13082681e8ce9bd0af505912d306403592490fc7"
+            "Fantom": "0x13082681e8ce9bd0af505912d306403592490fc7",
+            "Polygon POS": "0xe2aa7db6da1dae97c5f5c6914d285fbfcc32a128"
         }
     },
     "USDS": {
+        "url": "https://www.coingecko.com/en/coins/spiceusd",
         "contracts": {
-            "main": "0xa4bdb11dc0a2bec88d24a3aa1e6bb17201112ebe",
-            "XRP Ledger": "rEn9eRkX25wfGPLysUMAvZ84jAzFNpT5fL",
-            "Arbitrum One": "0x097bf766e427f5ccd306f21ba05632e0be849b0e",
-            "Stellar": "GBK4AYTOYIAYT4UJECSQGMACUWLKYOOM4VCAUUZ3Y3FG5XD2LYK3FGK2",
-            "ICON": "cxbb2871f468a3008f80b08fdde5b8b951583acf06",
-            "Tezos": "KT1REEb5VxWRjcHm5GzDMwErMmNFftsE5Gpf",
-            "Harmony Shard 0": "one1egzwqa9pys2easrxaa28xgll3yxu83gmcnf08f"
+            "main": "0xab05b04743e0aeaf9d2ca81e5d3b8385e4bf961e",
+            "Ethereum": "0x45fdb1b92a649fb6a64ef1511d3ba5bf60044838",
+            "BNB Smart Chain": "0xde7d1ce109236b12809c45b23d22f30dba0ef424",
+            "Polygon POS": "0x2f1b1662a895c6ba01a99dcaf56778e7d77e5609"
         }
     },
-    "USDK": {
+    "CJPY": {
+        "url": "https://www.coingecko.com/en/coins/convertible-jpy-token",
         "contracts": {
-            "main": "0x1c48f86ae57291f7686349f12601910bd8d470bb",
-            "OKExChain": "0xdcac52e001f5bd413aa6ea83956438f29098166b"
+            "main": "0x1cfa5641c01406ab8ac350ded7d735ec41298372"
         }
     },
-    "RSV": {
+    "SEUR": {
+        "url": "https://www.coingecko.com/en/coins/seur",
         "contracts": {
-            "main": "0x196f4727526ea7fb1e17b2071b3d8eaa38486988"
+            "main": "0xd71ecff9342a5ced620049e616c5035f1db98620"
+        }
+    },
+    "USC": {
+        "url": "https://www.coingecko.com/en/coins/usc",
+        "contracts": {
+            "main": "0x38547d918b9645f2d94336b6b61aeb08053e142c"
+        }
+    },
+    "ZUSD": {
+        "url": "https://www.coingecko.com/en/coins/zasset-zusd",
+        "contracts": {}
+    },
+    "XIDR": {
+        "url": "https://www.coingecko.com/en/coins/xidr",
+        "contracts": {
+            "main": "0xebf2096e01455108badcbaf86ce30b6e5a72aa52",
+            "Zilliqa": "zil1n02sfv2ytldc7jnyx3f7c9zehwdzlxy2ykrhf9",
+            "Polygon POS": "0x2c826035c1c36986117a0e949bd6ad4bab54afe2"
+        }
+    },
+    "BOB": {
+        "url": "https://www.coingecko.com/en/coins/bob",
+        "contracts": {
+            "main": "0xb0b195aefa3650a6908f15cdac7d92f8a5791b0b"
         }
     },
     "BAC": {
+        "url": "https://www.coingecko.com/en/coins/basis-cash",
         "contracts": {
             "main": "0x3449fc1cd036255ba1eb19d65ff4ba2b8903a69a"
         }
     },
+    "ONC": {
+        "url": "https://www.coingecko.com/en/coins/one-cash",
+        "contracts": {}
+    },
+    "GBPT": {
+        "url": "https://www.coingecko.com/en/coins/poundtoken",
+        "contracts": {}
+    },
     "USDB": {
+        "url": "https://www.coingecko.com/en/coins/usd-balance",
         "contracts": {
             "main": "0x6fc9383486c163fa48becdec79d6058f984f62ca"
         }
     },
-    "ONC": {
+    "VST": {
+        "url": "https://www.coingecko.com/en/coins/vesta-stable",
         "contracts": {
-            "main": "0xd90e69f67203ebe02c917b5128629e77b4cd92dc"
+            "main": "0x64343594ab9b56e99087bfa6f2335db24c2d1f17"
         }
     },
-    "STATIK": {
+    "JPYC": {
+        "url": "https://www.coingecko.com/en/coins/jpy-coin-v1",
         "contracts": {
-            "main": "0x97d367a5f900f5c9db4370d0d801fc52332244c7",
-            "Moonbeam": "0x97513e975a7fa9072c72c92d8000b0db90b163c5"
+            "main": "0x2370f9d504c7a6e775bf6e14b3f12846b594cd53",
+            "Polygon POS": "0x6ae7dfc73e0dde2aa99ac063dcf7e8a63265108c",
+            "Gnosis Chain": "0x417602f4fbdd471a431ae29fb5fe0a681964c11b",
+            "Shiden Network": "0x735abe48e8782948a37c7765ecb76b98cde97b0f"
         }
-    },
-    "DSD": {
-        "contracts": {
-            "main": "0xbd2f0cd039e0bfcf88901c98c0bfac5ab27566e3"
-        }
-    },
-    "CRVUSD": {
-        "contracts": {
-            "main": "0xf939e0a03fb07f59a73314e73794be0e57ac1b4e"
-        }
-    },
-    "XDAI": {
-        "contracts": {}
     },
     "BDO": {
+        "url": "https://www.coingecko.com/en/coins/bdollar",
         "contracts": {
             "main": "0x190b589cf9fb8ddeabbfeae36a813ffb2a702454"
         }
     },
+    "UUSD": {
+        "url": "https://www.coingecko.com/en/coins/utopia-usd",
+        "contracts": {}
+    },
+    "TCNH": {
+        "url": "https://www.coingecko.com/en/coins/truecnh",
+        "contracts": {
+            "main": "TBqsNXUtqaLptVK8AYvdPPctpqd8oBYWUC"
+        }
+    },
+    "JEUR": {
+        "url": "https://www.coingecko.com/en/coins/jarvis-synthetic-euro",
+        "contracts": {
+            "main": "0x0f17bc9a994b87b5225cfb6a2cd4d667adb4f20b",
+            "Gnosis Chain": "0x9fb1d52596c44603198fb0aee434fac3a679f702",
+            "Polygon POS": "0x4e3decbb3645551b8a19f0ea1678079fcb33fb4c",
+            "BNB Smart Chain": "0x23b8683ff98f9e4781552dfe6f12aa32814924e8"
+        }
+    },
+    "DUSD": {
+        "url": "https://www.coingecko.com/en/coins/decentralized-usd",
+        "contracts": {}
+    },
+    "XDAI": {
+        "url": "https://www.coingecko.com/en/coins/xdai",
+        "contracts": {
+            "main": "0xe91d153e0b41518a2ce8dd3d7944fa863463a97d"
+        }
+    },
+    "IRON": {
+        "url": "https://www.coingecko.com/en/coins/iron-bsc",
+        "contracts": {
+            "main": "0x7b65b489fe53fce1f6548db886c08ad73111ddd8",
+            "Fantom": "0x260b3e40c714ce8196465ec824cd8bb915081812"
+        }
+    },
+    "FXD": {
+        "url": "https://www.coingecko.com/en/coins/fathom-dollar",
+        "contracts": {
+            "main": "xdc49d3f7543335cf38Fa10889CCFF10207e22110B5"
+        }
+    },
+    "JCHF": {
+        "url": "https://www.coingecko.com/en/coins/jarvis-synthetic-swiss-franc",
+        "contracts": {
+            "main": "0x53dfea0a8cc2a2a2e425e1c174bc162999723ea0",
+            "Gnosis Chain": "0x2d5563da42b06fbbf9c67b7dc073cf6a7842239e",
+            "Polygon POS": "0xbd1463f02f61676d53fd183c2b19282bff93d099",
+            "BNB Smart Chain": "0x7c869b5a294b1314e985283d01c702b62224a05f"
+        }
+    },
+    "EURE": {
+        "url": "https://www.coingecko.com/en/coins/monerium-eur-money",
+        "contracts": {
+            "main": "0x3231cb76718cdef2155fc47b5286d82e6eda273f",
+            "Gnosis Chain": "0xcb444e90d8198415266c6a2724b7900fb12fc56e",
+            "Polygon POS": "0x18ec0a6e18e5bc3784fdd3a3634b31245ab704f6"
+        }
+    },
+    "XSTUSD": {
+        "url": "https://www.coingecko.com/en/coins/sora-synthetic-usd",
+        "contracts": {}
+    },
     "CADC": {
+        "url": "https://www.coingecko.com/en/coins/cad-coin",
         "contracts": {
             "main": "0xcadc0acd4b445166f12d2c07eac6e2544fbe2eef",
             "Polygon POS": "0x9de41aff9f55219d5bf4359f167d1d0c772a396d"
         }
     },
-    "IRON": {
+    "SFRAX": {
+        "url": "https://www.coingecko.com/en/coins/staked-frax",
         "contracts": {
-            "main": "0x7b65b489fe53fce1f6548db886c08ad73111ddd8"
+            "main": "0xe3b3fe7bca19ca77ad877a5bebab186becfad906",
+            "Avalanche": "0x3405e88af759992937b84e58f2fe691ef0eea320",
+            "Ethereum": "0xa663b02cf0a4b149d2ad41910cb81e23e1c41c32",
+            "BNB Smart Chain": "0xa63f56985f9c7f3bc9ffc5685535649e0c1a55f3",
+            "Optimism": "0x2dd1b4d4548accea497050619965f91f78b3b532"
         }
     },
-    "JEUR": {
+    "KDAI": {
+        "url": "https://www.coingecko.com/en/coins/klaytn-dai",
         "contracts": {
-            "main": "0x0f17bc9a994b87b5225cfb6a2cd4d667adb4f20b",
-            "BNB Smart Chain": "0x23b8683ff98f9e4781552dfe6f12aa32814924e8",
-            "Polygon POS": "0x4e3decbb3645551b8a19f0ea1678079fcb33fb4c",
-            "Gnosis Chain": "0x9fb1d52596c44603198fb0aee434fac3a679f702"
+            "main": "0x5c74070fdea071359b86082bd9f9b3deaafbe32b"
         }
     },
-    "JCHF": {
-        "contracts": {
-            "main": "0x53dfea0a8cc2a2a2e425e1c174bc162999723ea0",
-            "BNB Smart Chain": "0x7c869b5a294b1314e985283d01c702b62224a05f",
-            "Polygon POS": "0xbd1463f02f61676d53fd183c2b19282bff93d099",
-            "Gnosis Chain": "0x2d5563da42b06fbbf9c67b7dc073cf6a7842239e"
-        }
+    "ZSD": {
+        "url": "https://www.coingecko.com/en/coins/zephyr-protocol-stable-dollar",
+        "contracts": {}
     },
     "XUSD": {
+        "url": "https://www.coingecko.com/en/coins/xdollar-stablecoin",
         "contracts": {
             "main": "0x3a3e7650f8b9f667da98f236010fbf44ee4b2975",
             "Arbitrum One": "0x3509f19581afedeff07c53592bc0ca84e4855475"
         }
     },
-    "JPYC": {
-        "contracts": {
-            "main": "0x431d5dff03120afa4bdf332c61a6e1766ef37bdb"
-        }
-    },
-    "XSTUSD": {
+    "USDC.E": {
+        "url": "https://www.coingecko.com/en/coins/bridged-usdc-lightlink",
         "contracts": {}
     },
-    "EURE": {
+    "STUSD": {
+        "url": "https://www.coingecko.com/en/coins/solv-protocol-stusd",
         "contracts": {
-            "main": "0x3231cb76718cdef2155fc47b5286d82e6eda273f",
-            "Polygon POS": "0x18ec0a6e18e5bc3784fdd3a3634b31245ab704f6",
-            "Gnosis Chain": "0xcb444e90d8198415266c6a2724b7900fb12fc56e"
+            "main": "0x7cbf716aa9a6114281188867572ac87586e4abf2"
         }
     },
-    "DUSD": {
+    "USDT.E": {
+        "url": "https://www.coingecko.com/en/coins/bridged-tether-lightlink",
         "contracts": {}
-    },
-    "KDAI": {
-        "contracts": {
-            "main": "0x5c74070fdea071359b86082bd9f9b3deaafbe32b"
-        }
-    },
-    "UUSD": {
-        "contracts": {}
-    },
-    "TCNH": {
-        "contracts": {
-            "main": "TBqsNXUtqaLptVK8AYvdPPctpqd8oBYWUC"
-        }
-    },
-    "ANONUSD": {
-        "contracts": {
-            "main": "0x5a7e6c8204a1359db9aacab7ba5fc309b7981efd"
-        }
     }
 }
